@@ -1,0 +1,9 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 15:21:05.242	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 16:29:06.115	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 17:35:14.145	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 17:49:05.743	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 17:52:51.170	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 17:55:25.407	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 18:18:34.529	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 18:25:35.541	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/08/31 - 23:50:29.179	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection

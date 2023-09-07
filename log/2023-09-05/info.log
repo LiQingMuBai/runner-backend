@@ -1,0 +1,9 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 14:28:58.631	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/gorm.go:63	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 14:28:58.680	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 14:28:58.683	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/router.go:77	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 14:28:58.684	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 17:50:05.906	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/gorm.go:63	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 17:50:05.959	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/router.go:35	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 17:50:05.959	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 17:50:05.969	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/initialize/router.go:77	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/05 - 17:50:05.969	[34minfo[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}

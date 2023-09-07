@@ -1,0 +1,20 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 11:46:31.537	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:03:20.867	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_user.go:78	用户验证失败!
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:03:48.533	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_user.go:78	用户验证失败!
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:04:25.660	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_user.go:78	用户验证失败!
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:04:42.570	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_user.go:78	用户验证失败!
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:06:17.279	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_user.go:78	用户验证失败!
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:08:28.538	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_user.go:78	用户验证失败!
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 15:22:33.595	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:08:37.788	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:11:15.766	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:30:08.334	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_victim.go:41	创建失败!	{"error": "Error 1054 (42S22): Unknown column 'to_address' in 'field list'"}
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:30:08.524	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:33:52.151	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:37:19.873	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/api/v1/system/sys_victim.go:37	创建失败!	{"error": "存在相同victim"}
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 17:37:20.047	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 22:52:26.644	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 23:26:17.898	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 23:49:09.257	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 23:53:59.411	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2023/09/06 - 23:59:33.628	[31merror[0m	/Users/mirror/code/GitHub/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
